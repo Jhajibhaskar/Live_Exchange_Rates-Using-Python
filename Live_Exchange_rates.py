@@ -1,3 +1,4 @@
+#First run 'pip install urllib3' in terminal of pycharm then execute the below program
 import urllib3
 import json
 url = "https://api.exchangerate.host/latest/"
